@@ -23,10 +23,8 @@ return`
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}menu
- ${no++} ➳ ${prefix}iklan
  ${no++} ➳ ${prefix}rules
  ${no++} ➳ ${prefix}owner
- ${no++} ➳ ${prefix}script
  ${no++} ➳ ${prefix}infobot
  ${no++} ➳ ${prefix}donasi
  ${no++} ➳ ${prefix}donate
@@ -53,7 +51,6 @@ return`
  ${no++} ➳ ${prefix}error
  ${no++} ➳ ${prefix}clearerr
  ${no++} ➳ ${prefix}siaran
- ${no++} ➳ ${prefix}session
  ${no++} ➳ ${prefix}resetdb
  ${no++} ➳ ${prefix}runtime
  ${no++} ➳ ${prefix}setexif
@@ -726,12 +723,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+Number: 085920792778
+A/N: Erik Firmansyah
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 085920792778
+A/N: Erik Firmansyah
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -742,17 +739,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* Erik Firmansyah
+ • *Umur:* 13 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Askot:* Cilegon
+ • *Konten:* Nganggur
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 0881025400447
+ • *Youtube:* -
+ • *Github:* -
  `
 }
